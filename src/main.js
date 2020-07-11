@@ -5,6 +5,7 @@ import store from './store'
 import '@/util/filter' // 引入全局过滤器
 import '@/util/directive' // 引入全局指令
 import '@/util/component' // 引入全局组件
+// 回家回家
 
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
